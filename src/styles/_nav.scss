@@ -1,0 +1,15 @@
+nav {
+    background-color: skyblue;
+    ul {
+        display: flex;
+        justify-content: flex-end;
+        margin-right: 3rem;
+        li {
+            padding: 1rem;
+            a {
+                font-size: 1.5rem;
+                color: white;
+            }
+        }
+    }
+}
